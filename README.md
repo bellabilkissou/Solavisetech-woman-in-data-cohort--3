@@ -1,2 +1,12 @@
-# Solavisetech-woman-in-data-cohort--3
-My learning journey and goals in the solavisetech woman in data cohort 3 program.Salavise is a program to helps women to master Data science &amp;ML ,Data analysis and Artifitial intelligence ,at the end of this program i wish to be an expert in these 3 domaines.
+# 🧑‍💻Solavisetech-woman-in-data-cohort3
+welcome to my solavisetech journey and goals .
+# About solavisetech✨✨
+solavisetech is a program that trains women world wide in :
+-Data science & ML
+-Data analysis 
+-Artifitial intelligence.
+# My goals 🫅
+I wish to be 
+-Expert in this field 
+-Achieve my dream of a Researcher  
+-Get multiple opportunities
